@@ -1,9 +1,9 @@
 # Student
 
-### Hello, welcome👋
+### Olá, bem-vindo👋
 
-⚡ Currently studying Frontend programming and Designe
-🔭 My hobby is studying
-💬 I enjoy skateboarding, I read books and watch what I like.
-🎯 My goal is to go beyond the Frontend, either mobile or PC
-👀 You can meet me at: instagram.com/paulo_cesar013f
+⚡ Atualmente cursando programação Frontend e Designer
+🔭 Meu hobbie é estudar
+💬 Leio livros, assisto o que gosto e gosto de andar de skate
+🎯 Meu objetivo é ir além do Frontend, seja mobile ou PC
+👀 Você pode me encontrar em: instagram.com/paulo_cesar013f
